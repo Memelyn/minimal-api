@@ -1,0 +1,7 @@
+C:\projetos\C_sharp\ProjetoMinimals\minimal-api\Test\bin\Debug\net8.0\CoverletSourceRootsMapping_Test
+C:\projetos\C_sharp\ProjetoMinimals\minimal-api\Test\obj\Debug\net8.0\Test.csproj.AssemblyReference.cache
+C:\projetos\C_sharp\ProjetoMinimals\minimal-api\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\C_sharp\ProjetoMinimals\minimal-api\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+C:\projetos\C_sharp\ProjetoMinimals\minimal-api\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+C:\projetos\C_sharp\ProjetoMinimals\minimal-api\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+C:\projetos\C_sharp\ProjetoMinimals\minimal-api\Test\obj\Debug\net8.0\Test.sourcelink.json
